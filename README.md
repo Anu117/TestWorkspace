@@ -28,6 +28,12 @@ This test workspace contains files to demonstrate step-by-step process to write 
     #### Open a Terminal/cmd and write the below command to install selenium libraries in python.
 	pip install -U selenium
  
+## Functional Test Quick Start
+1. Clone sample project locally
+2. Run the functional test
+   * Open the test file 'Create_Account.Py' file in PyCharm.
+   * When the test is open, right click and choose to run the file in the test runner.
+   
 Test case to CREATE AN ACCOUNT:
 1.	From Selenium Import webdriver and other libraries.
 2.	Initialize the chrome driver.
