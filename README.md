@@ -32,7 +32,11 @@ This test workspace contains files to demonstrate step-by-step process to write 
    * Open the test file 'Create_Account.Py' file in PyCharm.
    * When the test is open, right click and choose to run the file in the test runner.
    
-#### ADDITIONAL INFO: Use case to CREATE AN ACCOUNT:
+#### ADDITIONAL INFO: 
+ *	Attached API Testing document uploaded.
+ *	Readme document with screen shots for installation.
+
+### Use case to CREATE AN ACCOUNT:
 	* From Selenium Import webdriver and other libraries.
 	* Initialize the chrome driver.
 	* Maximize the window using maximize_window() function.
