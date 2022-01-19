@@ -9,6 +9,7 @@ Pre-Requisites:
 •	PyCharm IDE.
 •	Selenium Webdriver Packages
 •	Chrome Driver
+
 Python Installation:
 Python download link - https://www.python.org/downloads/
  
@@ -16,7 +17,6 @@ PyCharm IDE Installation:
 Install the PyCharm community edition.
 PyCharm IDE download link: https://www.jetbrains.com/pycharm/download/#section=windows
  
-
 Chrome Driver Installation:
 Chrome driver installation link: https://sites.google.com/a/chromium.org/chromedriver/downloads
 Check the version of Chrome installed on your machine and download the web-driver zip file from the below link suitable to the version of the browser. Chrome driver will be installed in the form an executable for windows. Extract the zip file to desired location. Right click on executable of web-driver and copy the path. Add the chrome driver to your system path. 
