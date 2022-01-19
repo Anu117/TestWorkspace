@@ -12,7 +12,7 @@ This test workspace contains files to demonstrate step-by-step process to write 
 *	Selenium Webdriver Packages
 *	Chrome Driver
 
-### Installations:
+## [Installations](###Installations)
 * #### Python Installation:
   #### Python download link - https://www.python.org/downloads/
  
@@ -24,11 +24,8 @@ This test workspace contains files to demonstrate step-by-step process to write 
    #### Chrome driver installation link: https://sites.google.com/a/chromium.org/chromedriver/downloads
    Check the version of Chrome installed on your machine and download the web-driver zip file from the below link suitable to the version of the browser. Chrome driver will be installed in the form an executable for windows. Extract the zip file to desired location. Right click on executable of web-driver and copy the path. Add the chrome driver to your system path. 
 	 
-   Verify that ChromeDriver works from the command line:
-   $ chromedriver
- 
-*  Selenium Installation in Python:
-   Open a Terminal/cmd and write the below command to install selenium libraries in python.
+ *  Selenium Installation in Python:
+    #### Open a Terminal/cmd and write the below command to install selenium libraries in python.
 	pip install -U selenium
  
 Test case to CREATE AN ACCOUNT:
