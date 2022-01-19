@@ -26,12 +26,12 @@ This test workspace contains files to demonstrate step-by-step process to write 
 	pip install -U selenium
  
 ## Functional Test Quick Start
-1. Clone sample project locally
+1. Clone Create_Account.py locally
 2. Run the functional test
    * Open the test file 'Create_Account.Py' file in PyCharm.
    * When the test is open, right click and choose to run the file in the test runner.
    
-Test case to CREATE AN ACCOUNT:
+#### Use case to CREATE AN ACCOUNT:
 1.	From Selenium Import webdriver and other libraries.
 2.	Initialize the chrome driver.
 3.	Maximize the window using maximize_window() function.
