@@ -6,7 +6,8 @@ This test workspace contains files to demonstrate step-by-step process to write 
 ## Selenium project using PyCharm IDE:
 
 ## Table of contents
-1. [Pre-Requisites](###Pre-Requisites)
+[Pre-Requisites](###Pre-Requisites)
+   
 #### Required Items
 *	Python on Windows.
 *	PyCharm IDE.
