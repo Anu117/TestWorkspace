@@ -24,7 +24,7 @@ This test workspace contains files to demonstrate step-by-step process to write 
  *  #### Selenium Installation in Python:
     Open a Terminal/cmd and write the below command to install selenium libraries in python.
     
-    pip install -U selenium
+    *pip install -U selenium*
  
 ## Functional Test Quick Start
 1. Clone Create_Account.py locally
@@ -32,7 +32,7 @@ This test workspace contains files to demonstrate step-by-step process to write 
    * Open the test file 'Create_Account.Py' file in PyCharm.
    * When the test is open, right click and choose to run the file in the test runner.
    * Execute test from Terminal: Click on View -> Tool Windows -> Terminal -> Navigate to the folder where 'Create_Account.py' is located and type the command 
-     **python create_account.py
+     *python create_account.py*
    
 #### ADDITIONAL INFO: 
  *	Create-Account API Testing document uploaded.
