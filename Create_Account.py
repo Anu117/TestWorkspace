@@ -54,5 +54,5 @@ ActionChains(driver).move_to_element(MyAccount).perform()
 MyAccount.click()
 
 # exit the webpage
-# driver.quit()
+driver.quit()
 
