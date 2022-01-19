@@ -3,29 +3,32 @@ For my test project to write the automation test case for creating an account in
 I am using Selenium which is an open-source, web-based automation tool. I chose Python because it’s a very easy language to use and Python APIs make it easy to connect with a browser through Selenium Web driver. Selenium can send the standard Python commands to different browsers such as Chrome, Firefox, IE on different operating systems to perform different tasks on the browser.
 This test workspace contains files to demonstrate step-by-step process to write the automation test the python PyCharm IDE. 
 
-Selenium project using PyCharm IDE:
-Pre-Requisites:
-•	Python on Windows.
-•	PyCharm IDE.
-•	Selenium Webdriver Packages
-•	Chrome Driver
+## Selenium project using PyCharm IDE:
 
-Python Installation:
-Python download link - https://www.python.org/downloads/
+### Pre-Requisites:
+#### Required Items
+*	Python on Windows.
+*	PyCharm IDE.
+*	Selenium Webdriver Packages
+*	Chrome Driver
+
+### Installations:
+* #### Python Installation:
+  #### Python download link - https://www.python.org/downloads/
  
-PyCharm IDE Installation:
-Install the PyCharm community edition.
-PyCharm IDE download link: https://www.jetbrains.com/pycharm/download/#section=windows
- 
-Chrome Driver Installation:
-Chrome driver installation link: https://sites.google.com/a/chromium.org/chromedriver/downloads
-Check the version of Chrome installed on your machine and download the web-driver zip file from the below link suitable to the version of the browser. Chrome driver will be installed in the form an executable for windows. Extract the zip file to desired location. Right click on executable of web-driver and copy the path. Add the chrome driver to your system path. 
+* PyCharm IDE Installation:
+  #### PyCharm IDE download link: https://www.jetbrains.com/pycharm/download/#section=windows
+  Install the PyCharm community edition.
+  
+*  Driver Installation:
+   #### Chrome driver installation link: https://sites.google.com/a/chromium.org/chromedriver/downloads
+   Check the version of Chrome installed on your machine and download the web-driver zip file from the below link suitable to the version of the browser. Chrome driver will be installed in the form an executable for windows. Extract the zip file to desired location. Right click on executable of web-driver and copy the path. Add the chrome driver to your system path. 
 	 
-Verify that ChromeDriver works from the command line:
-$ chromedriver
+   Verify that ChromeDriver works from the command line:
+   $ chromedriver
  
-Selenium Installation in Python:
-Open a Terminal/cmd and write the below command to install selenium libraries in python.
+*  Selenium Installation in Python:
+   Open a Terminal/cmd and write the below command to install selenium libraries in python.
 	pip install -U selenium
  
 Test case to CREATE AN ACCOUNT:
