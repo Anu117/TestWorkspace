@@ -23,7 +23,8 @@ This test workspace contains files to demonstrate step-by-step process to write 
 	 
  *  #### Selenium Installation in Python:
     Open a Terminal/cmd and write the below command to install selenium libraries in python.
-	pip install -U selenium
+    
+    pip install -U selenium
  
 ## Functional Test Quick Start
 1. Clone Create_Account.py locally
