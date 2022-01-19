@@ -32,13 +32,13 @@ This test workspace contains files to demonstrate step-by-step process to write 
    * When the test is open, right click and choose to run the file in the test runner.
    
 #### ADDITIONAL INFO: Use case to CREATE AN ACCOUNT:
-1.	From Selenium Import webdriver and other libraries.
-2.	Initialize the chrome driver.
-3.	Maximize the window using maximize_window() function.
-4.	Use get() function and pass URL as the parameter.
-5.	Use find_element_by_id(), find_element_by_xpath(), find_element_by_css_selectors() to find elements on the webpage.
-6.	Use ActionChains to hover over elements, click() function to click on buttons, send_keys() function to enter text in text boxes and quit() function to close the browser.
-7.	Use switch_to.frame(iFrame) and driver.switch_to.default_content() when working with the reCAPTCHA frame.
+	* From Selenium Import webdriver and other libraries.
+	* Initialize the chrome driver.
+	* Maximize the window using maximize_window() function.
+	* Use get() function and pass URL as the parameter.
+	* Use find_element_by_id(), find_element_by_xpath(), find_element_by_css_selectors() to find elements on the webpage.
+	* Use ActionChains to hover over elements, click() function to click on buttons, send_keys() function to enter text in text boxes and quit() function to close the browser.
+	* Use switch_to.frame(iFrame) and driver.switch_to.default_content() when working with the reCAPTCHA frame.
 
 
 
