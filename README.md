@@ -13,19 +13,16 @@ This test workspace contains files to demonstrate step-by-step process to write 
 *	Chrome Driver
 
 ## [Installations](###Installations)
-* #### Python Installation:
-  #### Python download link - https://www.python.org/downloads/
+* #### Python download link - https://www.python.org/downloads/
  
-* PyCharm IDE Installation:
-  #### PyCharm IDE download link: https://www.jetbrains.com/pycharm/download/#section=windows
+* #### PyCharm IDE download link: https://www.jetbrains.com/pycharm/download/#section=windows
   Install the PyCharm community edition.
   
-*  Driver Installation:
-   #### Chrome driver installation link: https://sites.google.com/a/chromium.org/chromedriver/downloads
+*  #### Chrome driver installation link: https://sites.google.com/a/chromium.org/chromedriver/downloads
    Check the version of Chrome installed on your machine and download the web-driver zip file from the below link suitable to the version of the browser. Chrome driver will be installed in the form an executable for windows. Extract the zip file to desired location. Right click on executable of web-driver and copy the path. Add the chrome driver to your system path. 
 	 
- *  Selenium Installation in Python:
-    #### Open a Terminal/cmd and write the below command to install selenium libraries in python.
+ *  #### Selenium Installation in Python:
+    Open a Terminal/cmd and write the below command to install selenium libraries in python.
 	pip install -U selenium
  
 ## Functional Test Quick Start
