@@ -32,7 +32,7 @@ This test workspace contains files to demonstrate step-by-step process to write 
    * Open the test file 'Create_Account.Py' file in PyCharm.
    * When the test is open, right click and choose to run the file in the test runner.
    * Execute test from Terminal: Click on View -> Tool Windows -> Terminal -> Navigate to the folder where 'Create_Account.py' is located and type the command 
-   ### python create_account.py
+     python create_account.py
    
 #### ADDITIONAL INFO: 
  *	Create-Account API Testing document uploaded.
