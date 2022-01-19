@@ -33,7 +33,7 @@ This test workspace contains files to demonstrate step-by-step process to write 
    * When the test is open, right click and choose to run the file in the test runner.
    
 #### ADDITIONAL INFO: 
- *	Attached API Testing document uploaded.
+ *	Create-Account API Testing document uploaded.
  *	Readme document with screen shots for installation.
 
 ### Use case to CREATE AN ACCOUNT:
